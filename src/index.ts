@@ -11,7 +11,7 @@
  *
  * The first line in this comment block is a short description line and the
  * rest is a long description with more detail on the module's purpose or usage,
- * if appropriate. All modules should have a short description.<img src="https://framerusercontent.com/images/tpJEZ337KKxXU4q1SSUXDx4FG4.png?scale-down-to=512" />
+ * if appropriate. All modules should have a short description.<img src="https://framerusercontent.com/images/tpJEZ337KKxXU4q1SSUXDx4FG4.png"/>
  */
 
 import { dag, Container, Directory, object, func } from "@dagger.io/dagger"
