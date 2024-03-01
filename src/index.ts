@@ -1,5 +1,5 @@
 /**
- * A generated module for Dog functions
+ * A generated module for Dog functions that has a first line that is waaaaay too long for the 120 character limit that I've decided to impose to keep things somewhat sane
  *
  * This module has been generated via [dagger](https://dagger.io) init and serves as a reference to
  * basic module structure as you get started with Dagger.
